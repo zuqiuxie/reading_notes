@@ -1,6 +1,6 @@
 var CONFIG = {
   // your website's title
-  document_title: "《东北窃听故事》",
+  document_title: "读书笔记",
 
   // index page
   index: "README.md",
@@ -9,7 +9,7 @@ var CONFIG = {
   sidebar_file: "sidebar.md",
 
   // where the docs are actually stored on github - so you can edit
-  base_url: "https://github.com/zuqiuxie/dbqtgs-douban",
+  base_url: "https://github.com/zuqiuxie/reading_notes",
 };
 
 // **************************
