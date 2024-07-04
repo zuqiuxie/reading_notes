@@ -1,0 +1,36 @@
+{
+  "author": "安之龙",
+  "description": "二十多年前，我在东北小城的电话机房工作，因为一次偶然的窃听而彻底改变了命运。现侨居新西兰的我接到了一个意外的电话，这个电话把我带回了阔别多年的故乡小城，让我去揭开二十年前那改变多人命运的“窃听”事件的真相。",
+  "extension": null,
+  "generator": "site",
+  "isbn": "9787121324758",
+  "links": {
+	"sharing": {
+	  "all": null,
+	  "facebook": null,
+	  "google": null,
+	  "twitter": null,
+	  "weibo": null
+	},
+	"sidebar": {
+	  "《东北窃听故事》": "https://dbqtgs-douban.wangbin.run/"
+	}
+  },
+  "output": null,
+  "pdf": {
+	"fontSize": 12,
+	"footerTemplate": null,
+	"headerTemplate": null,
+	"margin": {
+	  "bottom": 36,
+	  "left": 62,
+	  "right": 62,
+	  "top": 36
+	},
+	"pageNumbers": false,
+	"paperSize": "a4"
+  },
+  "plugins": [],
+  "title": "《东北窃听故事》",
+  "variables": {}
+}
