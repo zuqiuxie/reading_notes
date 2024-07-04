@@ -1,4 +1,4 @@
-[我读的书](https://book.wangbin.run/)   [我的学习](https://study.wangbin.run/)
+[我读的书](https://book.wangbin.run/)   [我的网站](https://blog.wangbin.run/)
 
 ---
 
